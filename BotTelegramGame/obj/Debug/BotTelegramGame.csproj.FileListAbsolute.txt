@@ -1,0 +1,36 @@
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.exe.config
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.exe
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.pdb
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\bin\Debug\Newtonsoft.Json.dll
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\bin\Debug\Telegram.Bot.dll
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\bin\Debug\Newtonsoft.Json.xml
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\bin\Debug\Telegram.Bot.xml
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csprojAssemblyReference.cache
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csproj.CoreCompileInputs.cache
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csproj.CopyComplete
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.exe
+E:\ТП\Patterns\Структурные паттерны\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.pdb
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.exe.config
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.exe
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.pdb
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\Newtonsoft.Json.dll
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\Telegram.Bot.dll
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\Newtonsoft.Json.xml
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\Telegram.Bot.xml
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csprojAssemblyReference.cache
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csproj.CoreCompileInputs.cache
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csproj.CopyComplete
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.exe
+E:\ТП\BotTelegram\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.pdb
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.exe.config
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.exe
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.pdb
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\Newtonsoft.Json.dll
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\Telegram.Bot.dll
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\Newtonsoft.Json.xml
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\bin\Debug\Telegram.Bot.xml
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csprojAssemblyReference.cache
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csproj.CoreCompileInputs.cache
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csproj.CopyComplete
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.exe
+E:\TP\BotTelegram\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.pdb
